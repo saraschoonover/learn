@@ -8,7 +8,7 @@ function ExpenseItem(props) {
 
   const handleClick = () => {
     setTitle("Updated!");
-    console.log(title)
+    console.log('clicked!!!')
   };
 
   return (
